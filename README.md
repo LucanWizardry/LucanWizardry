@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello There! My name is Lucan Burnett (he/him), a developer with a passion for storytelling. 
+
+🔭 I’m currently working on an IBM full stack developer certification on [Coursera](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+<br>
+👯 I’m looking to collaborate on projects that combine my love of RPGs and storytelling with my game development and full stack development knowledge. 
+<br>
+📫 How to reach me: [lucanburnett@icloud.com](mailto:lucanburnett@icloud.com)
+<br>
+⚡ Fun fact: I am an active member of Dystopia Rising and write the Colorado chapter's newspaper, [*The Barker Meadow Daily*](https://lucanwizardry.wordpress.com/category/dystopia-rising/barker-meadow-daily/).
+
 
 <!--
 **LucanWizardry/LucanWizardry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
